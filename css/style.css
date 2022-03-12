@@ -1,0 +1,26 @@
+*{
+    text-align: center;
+}
+body{
+    width: 100%;
+    height: auto;
+    margin-left: auto; margin-right: auto;
+}
+.baslik{
+    color: darkred;
+}
+.altbaslik{
+    color: darkorange;
+}
+.ustlist{
+    margin-right: 2%;
+}
+.ustlist li{
+    display: inline-block;
+}
+.altlist{
+    list-style: none;
+}
+img{
+    width: 500px; height: 500px;
+}
